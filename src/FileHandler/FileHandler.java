@@ -28,9 +28,9 @@ public class FileHandler {
         return sb.toString();
     }
 
-    public void saveFile(int[] v) {
+    public void saveFile(int[] v, String fileName) {
         try {
-            FileWriter fw = new FileWriter("src/Files/randomNumbers.txt");
+            FileWriter fw = new FileWriter("src/Files/" + fileName + ".txt");
             BufferedWriter bw = new BufferedWriter(fw);
             for (int i = 0; i < v.length; i++) {
                 bw.write(Integer.toString(v[i]));

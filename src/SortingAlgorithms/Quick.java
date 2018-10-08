@@ -7,7 +7,7 @@ public class Quick {
     public static int partition(int arr[], int low, int high) {
         int pivot = arr[low];
         int left = low + 1;
-        int right = high;
+        int right = high - 1;
         int aux = 0;
 
         while (left <= right) {

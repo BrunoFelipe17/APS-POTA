@@ -11,7 +11,6 @@ public class Bubble<T extends Comparable<T>> {
             for (int i = 1; i < n; i++) {
                 comparison++;
                 if (arr[i].compareTo(arr[i - 1]) < 0) {
-                    System.out.println("to aqui");
                     T value = arr[i];
                     arr[i] = arr[i - 1];
                     arr[i - 1] = value;

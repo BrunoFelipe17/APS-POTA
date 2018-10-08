@@ -11,6 +11,7 @@ public class Selection<T extends Comparable<T>> {
                 comparison++;
                 if (arr[j].compareTo(arr[min]) < 0) {
                     min = j;
+                    comparison++;
                 }
             }
             T temp = arr[min];
