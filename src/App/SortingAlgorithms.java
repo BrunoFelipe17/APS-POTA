@@ -42,7 +42,7 @@ public class SortingAlgorithms {
         } else if (object instanceof Insertion) {
             Insertion.sort(arrG);
         } else if (object instanceof Merge) {
-            Merge.merge(arr, 0, arr.length - 1);
+            Merge.mergeSort(arr, 0, arr.length - 1);
             System.out.println(Merge.comparison + " " + Merge.swap);
             Merge.comparison = 0;
             Merge.swap = 0;
