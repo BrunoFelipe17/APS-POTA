@@ -16,9 +16,8 @@ public class Insertion<T extends Comparable<T>> {
                 swap++;
             }
             arr[j+1] = key;
-            swap++;
         }
-        System.out.println(swap);
+        System.out.println(comparison + " " + swap);
         return arr;
     }
 }

@@ -21,7 +21,7 @@ public class Bubble<T extends Comparable<T>> {
             }
             n = newN;
         }
-        System.out.println(swap);
+        System.out.println(comparison + " " + swap);
         return arr;
     }
 }

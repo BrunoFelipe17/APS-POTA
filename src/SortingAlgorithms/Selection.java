@@ -20,10 +20,7 @@ public class Selection<T extends Comparable<T>> {
             arr[i] = temp;
         }
 
-        // FORMULA: n²/2 + n/2
-        // (Math.pow(n, 2) / 2) - (n / 2)
-//        System.out.println(comparison);
-        System.out.println(swap);
+        System.out.println(comparison + " " + swap);
         return arr;
     }
 }

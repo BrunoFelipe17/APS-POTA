@@ -7,7 +7,7 @@ public class Main {
 //        Generate random numbers and save to a file
 //        rd.generate("random_numbers");
 
-        SortingAlgorithms sa = new SortingAlgorithms("decreasing_numbers");
+        SortingAlgorithms sa = new SortingAlgorithms("crescent");
 
 
 //        sa.bubble(5);
@@ -24,12 +24,12 @@ public class Main {
 //        sa.selection(1000);
 //        sa.selection(10000);
 
-//        sa.insertion(5);
-//        sa.insertion(10);
-//        sa.insertion(50);
-//        sa.insertion(100);
-//        sa.insertion(1000);
-//        sa.insertion(10000);
+        sa.insertion(5);
+        sa.insertion(10);
+        sa.insertion(50);
+        sa.insertion(100);
+        sa.insertion(1000);
+        sa.insertion(10000);
 
 //        sa.merge(5);
 //        sa.merge(10);

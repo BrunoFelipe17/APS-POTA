@@ -51,7 +51,6 @@ public class SortingAlgorithms {
             System.out.println(Quick.comparison + " " + Quick.swap);
             Quick.comparison = 0;
             Quick.swap = 0;
-//            printArr(arr);
         }
     }
 
