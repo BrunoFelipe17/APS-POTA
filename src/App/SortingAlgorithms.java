@@ -36,17 +36,22 @@ public class SortingAlgorithms {
         Integer[] arrG = array.generateToGeneric(size);
 //        printArr(arr);
         if (object instanceof Bubble) {
-            Bubble.sort(arrG);
+            new Bubble().sort(arrG);
         } else if (object instanceof Selection) {
             Selection.sort(arrG);
         } else if (object instanceof Insertion) {
             Insertion.sort(arrG);
         } else if (object instanceof Merge) {
             Merge.merge(arr, 0, arr.length - 1);
-            System.out.println("Merge " + Merge.comparison);
+            System.out.println(Merge.comparison + " " + Merge.swap);
+            Merge.comparison = 0;
+            Merge.swap = 0;
         } else if (object instanceof Quick) {
             Quick.sort(arr, 0, arr.length - 1);
-            System.out.println("Comparison " + Quick.comparison);
+            System.out.println(Quick.comparison + " " + Quick.swap);
+            Quick.comparison = 0;
+            Quick.swap = 0;
+//            printArr(arr);
         }
     }
 

@@ -2,21 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="523576ad-a101-43a3-89fe-9a14170ece30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Files/decreasing_numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Files/random_numbers.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/POTA_APS/App/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POTA_APS/App/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POTA_APS/App/RandomNumbersToFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POTA_APS/App/RandomNumbersToFile.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/POTA_APS/App/SortingAlgorithms.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POTA_APS/App/SortingAlgorithms.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/POTA_APS/Files/aaa.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/POTA_APS/Files/rand.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/POTA_APS/SortingAlgorithms/Bubble.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POTA_APS/SortingAlgorithms/Bubble.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/POTA_APS/SortingAlgorithms/Insertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POTA_APS/SortingAlgorithms/Insertion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POTA_APS/Files/randomNumbers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POTA_APS/Files/randomNumbers_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POTA_APS/Files/randomNumbers_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POTA_APS/Files/randomNumbers_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POTA_APS/Files/randomNumbers_4.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/POTA_APS/SortingAlgorithms/Merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POTA_APS/SortingAlgorithms/Merge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/POTA_APS/SortingAlgorithms/Selection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POTA_APS/SortingAlgorithms/Selection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POTA_APS/SortingAlgorithms/Quick.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POTA_APS/SortingAlgorithms/Quick.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App/RandomNumbersToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App/RandomNumbersToFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App/SortingAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App/SortingAlgorithms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortingAlgorithms/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingAlgorithms/Bubble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortingAlgorithms/Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingAlgorithms/Insertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Files/randomNumbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Files/crescent.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Files/randomNumbers_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Files/randomNumbers_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Files/randomNumbers_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Files/randomNumbers_4.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SortingAlgorithms/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingAlgorithms/Merge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortingAlgorithms/Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingAlgorithms/Selection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortingAlgorithms/Quick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingAlgorithms/Quick.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,37 +39,38 @@
     <session id="146482791">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.28" value="2" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.43" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="24" />
+          <entry key="java" value="30" />
           <entry key="md" value="1" />
-          <entry key="txt" value="3" />
+          <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="24" />
+          <entry key="JAVA" value="30" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="13" />
-          <entry key="java" value="2477" />
+          <entry key="java" value="3477" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2477" />
+          <entry key="JAVA" value="3477" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -67,20 +78,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
-              <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
+            <state relative-caret-position="270">
+              <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Files/randomNumbers.txt">
+        <entry file="file://$PROJECT_DIR$/src/SortingAlgorithms/Quick.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="34" selection-start-column="34" selection-end-column="34" />
+            <state relative-caret-position="361">
+              <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -88,8 +99,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App/SortingAlgorithms.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="39" column="42" lean-forward="true" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
+            <state relative-caret-position="91">
+              <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#280#281#0" expanded="true" />
@@ -99,38 +110,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SortingAlgorithms/Insertion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SortingAlgorithms/Selection.java">
+        <entry file="file://$PROJECT_DIR$/src/Files/decreasing_numbers.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SortingAlgorithms/Bubble.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SortingAlgorithms/Quick.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            <state>
+              <caret column="18" selection-end-column="58892" />
             </state>
           </provider>
         </entry>
@@ -153,16 +137,19 @@
         <option value="$PROJECT_DIR$/src/FileHandler/File.java" />
         <option value="$PROJECT_DIR$/src/App/RandomNumbers.java" />
         <option value="$PROJECT_DIR$/src/FileHandler/FileHandler.java" />
-        <option value="$PROJECT_DIR$/src/App/RandomNumbersToFile.java" />
-        <option value="$PROJECT_DIR$/src/SortingAlgorithms/Quick.java" />
         <option value="$PROJECT_DIR$/src/App/GenerateArray.java" />
-        <option value="$PROJECT_DIR$/src/App/SortingAlgorithms.java" />
-        <option value="$PROJECT_DIR$/src/SortingAlgorithms/Merge.java" />
         <option value="$PROJECT_DIR$/src/SortingAlgorithms/Selection.java" />
         <option value="$PROJECT_DIR$/src/Files/randomNumbers.txt" />
         <option value="$PROJECT_DIR$/src/SortingAlgorithms/Bubble.java" />
-        <option value="$PROJECT_DIR$/src/App/Main.java" />
         <option value="$PROJECT_DIR$/src/SortingAlgorithms/Insertion.java" />
+        <option value="$PROJECT_DIR$/src/SortingAlgorithms/Merge.java" />
+        <option value="$PROJECT_DIR$/src/Files/randomNumbers_4.txt" />
+        <option value="$PROJECT_DIR$/src/Files/crescent.txt" />
+        <option value="$PROJECT_DIR$/src/Files/randomNumbers_1.txt" />
+        <option value="$PROJECT_DIR$/src/App/RandomNumbersToFile.java" />
+        <option value="$PROJECT_DIR$/src/SortingAlgorithms/Quick.java" />
+        <option value="$PROJECT_DIR$/src/App/SortingAlgorithms.java" />
+        <option value="$PROJECT_DIR$/src/App/Main.java" />
       </list>
     </option>
   </component>
@@ -180,6 +167,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,7 +208,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -267,8 +254,8 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18080357" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987775" visible="true" weight="0.18080357" />
+      <window_info id="Structure" order="1" sideWeight="0.5012225" side_tool="true" weight="0.18080357" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -331,20 +318,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Files/aaa.txt" />
     <entry file="file://$PROJECT_DIR$/src/Files/rand.txt" />
-    <entry file="file://$PROJECT_DIR$/src/App/RandomNumbersToFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortingAlgorithms/Quick.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/App/GenerateArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -352,31 +325,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortingAlgorithms/Merge.java">
+    <entry file="file://$PROJECT_DIR$/src/SortingAlgorithms/Insertion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        <state relative-caret-position="324">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SortingAlgorithms/Selection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="450">
           <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Files/randomNumbers.txt">
+    <entry file="file://$PROJECT_DIR$/src/SortingAlgorithms/Bubble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Files/crescent.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="34" selection-start-column="34" selection-end-column="34" />
+          <caret column="58773" lean-forward="true" selection-start-column="58773" selection-end-column="58773" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App/RandomNumbersToFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Files/random_numbers.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39414" selection-start-column="39414" selection-end-column="39414" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortingAlgorithms/Merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Files/decreasing_numbers.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-end-column="58892" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App/SortingAlgorithms.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="39" column="42" lean-forward="true" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
+        <state relative-caret-position="91">
+          <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#280#281#0" expanded="true" />
@@ -385,24 +393,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortingAlgorithms/Bubble.java">
+    <entry file="file://$PROJECT_DIR$/src/SortingAlgorithms/Quick.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        <state relative-caret-position="361">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortingAlgorithms/Insertion.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
         </state>
       </provider>
     </entry>

@@ -3,7 +3,7 @@ package App;
 import FileHandler.FileHandler;
 
 public class RandomNumbersToFile {
-    public void generate() {
+    public void generate(String fileName) {
         String pi = new FileHandler().readFile("/src/Files/pi.txt");
         int[] arr = new int[10000];
         int init = 0;
@@ -14,6 +14,6 @@ public class RandomNumbersToFile {
             arr[i] = Integer.parseInt(pi.substring(init, end));
             init += rand;
         }
-        new FileHandler().saveFile(arr, "rand");
+        new FileHandler().saveFile(arr, fileName);
     }
 }
